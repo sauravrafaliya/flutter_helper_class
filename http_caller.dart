@@ -4,11 +4,11 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:qoncert/const/globle_variable.dart';
-import 'package:qoncert/main.dart';
-import 'package:qoncert/model/profile_model.dart';
-import 'package:qoncert/screen/auth_screen.dart';
-import 'package:qoncert/widget/show_widget.dart';
+import 'package:xyz/const/globle_variable.dart';
+import 'package:xyz/main.dart';
+import 'package:xyz/model/profile_model.dart';
+import 'package:xyz/screen/auth_screen.dart';
+import 'package:xyz/widget/show_widget.dart';
 
 import '../controller/profile_controller.dart';
 import '../model/response_msg_model.dart';

@@ -2,10 +2,10 @@ import 'dart:io';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:qoncert/const/globle_variable.dart';
-import 'package:qoncert/main.dart';
-import 'package:qoncert/services/http/user_services.dart';
-import 'package:qoncert/widget/show_widget.dart';
+import 'package:xyz/const/globle_variable.dart';
+import 'package:xyz/main.dart';
+import 'package:xyz/services/http/user_services.dart';
+import 'package:xyz/widget/show_widget.dart';
 
 import '../const/const_string.dart';
 import '../model/response_msg_model.dart';

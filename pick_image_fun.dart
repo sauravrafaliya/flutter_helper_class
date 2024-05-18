@@ -3,7 +3,7 @@ import 'dart:io' show File, Platform;
 import 'package:flutter_image_compress/flutter_image_compress.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:mjs/Utils/helper_fun.dart';
+import 'package:xyz/Utils/helper_fun.dart';
 
 import '../main.dart';
 

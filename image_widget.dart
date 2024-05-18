@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:mjs/Widget/cached_image_widget.dart';
+import 'package:xyz/Widget/cached_image_widget.dart';
 
 class ImageWidget extends StatelessWidget {
   final String? imageUrl;

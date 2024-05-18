@@ -36,14 +36,6 @@ class CachedNetworkImageWidget extends StatelessWidget {
   }
 
   String getImageUrl(String url){
-    // String finalUrl = "";
-    // List<String> splitString = url.split("/");
-    // splitString.removeLast();
-    // if(["car","cover","notification"].contains(splitString.last.toLowerCase())){
-    //   finalUrl = "$BUCKET_BASEURL${splitString.last}/${url.split("/").last}";
-    // }else{
-    //   finalUrl = url;
-    // }
     return url;
   }
 
